@@ -41,7 +41,7 @@ Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se 
 
 - Nome: Karen
 - Email: kreisdemenezes@gmail.com  
-- GitHub: (https://github.com/seu-usuario](https://github.com/reiskaren0228)https://github.com/reiskaren0228)
+- GitHub: [reiskaren0228](https://github.com/reiskaren0228)
 
 
 
