@@ -39,7 +39,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato:
 
-- Nome: Karen
+- Nome: Karen Reis
 - Email: kreisdemenezes@gmail.com  
 - GitHub: [reiskaren0228](https://github.com/reiskaren0228)
 
