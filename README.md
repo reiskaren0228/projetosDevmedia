@@ -21,7 +21,7 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 [Git Clone](https://github.com/reiskaren0228/projetosDevmedia.git).
 
 
-2. Abra o arquivo principal do projeto, como `calculadora_portugol.por`, na Portugol IDE.
+2. Abra o arquivo principal do projeto, como `calculadoraPorcetagem.por`, na Portugol IDE.
 
 3. Execute o programa na IDE.
 
